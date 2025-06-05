@@ -34,3 +34,13 @@ name: registry.gitlab.com/netology7252023/image_build:latest
 ![](https://github.com/Granit16/NetologyDiplom/blob/main/img/pic1.png)
 
 ![](https://github.com/Granit16/NetologyDiplom/blob/main/img/pic2.png)
+
+![](https://github.com/Granit16/NetologyDiplom/blob/main/img/pic3.png)
+
+![](https://github.com/Granit16/NetologyDiplom/blob/main/img/pic4.png)
+
+![](https://github.com/Granit16/NetologyDiplom/blob/main/img/pic5.png)
+
+![](https://github.com/Granit16/NetologyDiplom/blob/main/img/pic6.png)
+
+![](https://github.com/Granit16/NetologyDiplom/blob/main/img/pic7.png)
