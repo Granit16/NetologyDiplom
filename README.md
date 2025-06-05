@@ -32,3 +32,5 @@ name: registry.gitlab.com/netology7252023/image_build:latest
 
 Открываем в браузере ip-адрес нашего балансировщика.
 ![](https://github.com/Granit16/NetologyDiplom/blob/main/img/pic1.png)
+
+![](https://github.com/Granit16/NetologyDiplom/blob/main/img/pic2.png)
