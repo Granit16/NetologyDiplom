@@ -20,4 +20,4 @@
 | CI_REGISTRY_PASSWORD  | User password | GitLab |
 | CI_REGISTRY  | Registry | GitLab |
 
-Все остальные переменные он создаст сам в ходе работы
+Остальные переменные будут созданы автоматически
