@@ -10,14 +10,14 @@
 
 Для запуска проекта необходимо создать переменные в группе проектов Netology:
 
-| Ключ  | Источник |
-| ------------- | ------------- |
-| billing  | ID биллинг аккаунта (Yandex.Cloud)|
-| organization  | ID организации (Yandex.Cloud) |
-| YC_OAUTH_TOKEN  | OAuth-токен (Yandex.Cloud) |
-| GITLAB_API_TOKEN  | GitLab token (GitLab) |
-| CI_REGISTRY_USER  | Username (GitLab) |
-| CI_REGISTRY_PASSWORD  | User password (GitLab) |
-| CI_REGISTRY  | Registry (GitLab) |
+| Ключ  | Источник | Плаформа |
+| ------------- | ------------- | ------------- |
+| billing  | ID биллинг аккаунта | (Yandex.Cloud) |
+| organization  | ID организации| (Yandex.Cloud) |
+| YC_OAUTH_TOKEN  | OAuth-токен| (Yandex.Cloud) |
+| GITLAB_API_TOKEN  | GitLab token | (GitLab) |
+| CI_REGISTRY_USER  | Username | (GitLab) |
+| CI_REGISTRY_PASSWORD  | User password | (GitLab) |
+| CI_REGISTRY  | Registry | (GitLab) |
 
 Все остальные переменные он создаст сам в ходе работы
