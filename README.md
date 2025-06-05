@@ -12,12 +12,12 @@
 
 | Ключ  | Источник |
 | ------------- | ------------- |
-| billing  | ID биллинг аккаунта,берется из яндекс клауда |
-| organization  | ID организации,берется из яндекс клауда |
-| YC_OAUTH_TOKEN  | [Content](https://yandex.cloud/ru/docs/iam/concepts/authorization/oauth-token Жмакаем поссылке и там получить новый OAuth-токен.его и вставляем) |
-| GITLAB_API_TOKEN  | Токен от учетки гитлаба (давал полный доступ) |
-| CI_REGISTRY_USER  | имя вашего пользователя в гитлабе |
-| CI_REGISTRY_PASSWORD  | пароль пользователя в гитлабе |
-| CI_REGISTRY  | registry.gitlab.com |
+| billing  | ID биллинг аккаунта (Yandex.Cloud)|
+| organization  | ID организации (Yandex.Cloud) |
+| YC_OAUTH_TOKEN  | OAuth-токен (Yandex.Cloud) |
+| GITLAB_API_TOKEN  | GitLab token (GitLab) |
+| CI_REGISTRY_USER  | Username (GitLab) |
+| CI_REGISTRY_PASSWORD  | User password (GitLab) |
+| CI_REGISTRY  | Registry (GitLab) |
 
 Все остальные переменные он создаст сам в ходе работы
