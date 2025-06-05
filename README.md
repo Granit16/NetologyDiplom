@@ -31,3 +31,4 @@ name: registry.gitlab.com/netology7252023/image_build:latest
 После этого выполняется helm.
 
 Открываем в браузере ip-адрес нашего балансировщика.
+![](https://github.com/Granit16/NetologyDiplom/blob/main/imgs/pic1.png)
